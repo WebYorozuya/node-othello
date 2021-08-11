@@ -1,0 +1,17 @@
+{
+  "name": "othello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "play": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepcopy": "^2.1.0",
+    "keypress": "^0.2.1"
+  }
+}
